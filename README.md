@@ -1,3 +1,14 @@
+# Google docs clone using react framework..
+
+## This has the functionality to
+- [] edit
+- [] autosave
+- [] save
+- [] group edit
+- [] file and edit syncing
+- [] research(optional)
+- [] voice typing(optional)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
